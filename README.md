@@ -1,19 +1,22 @@
 # 🎬 MovieLens SQL Case Study  
 
-A SQL case study analyzing movies & ratings from the **MovieLens dataset** with 17 queries.  
-
+This project is a SQL case study built on the MovieLens dataset.  
+It explores movies, user ratings, and IMDb links through structured queries.  
+A total of 17 SQL queries were written, ranging from basic to advanced.  
+The analysis includes popularity trends, genre insights, and rating behaviors.  
+It demonstrates SQL skills in data analysis, aggregation, joins, and set operations.  
 ---
 
 ## 📂 Dataset Overview  
 - **P2_Movie** → Movies with title & genres(https://www.kaggle.com/datasets/merveatasoy1/movielens-dataset?select=movie.csv)
-- **P2_Rating** → User ratings (1–5)  
-- **P2_Link** → Links to IMDb & TMDB IDs  
+- **P2_Rating** → User ratings (1–5)(https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset?select=rating.csv)
+- **P2_Link** → Links to IMDb & TMDB IDs (https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset?select=link.csv) 
 
 ---
 
 ## ✅ Queries & Outputs  
 
-| No | Question | Demo |
+| No | Question | Execution |
 |----|-----------|------|
 | Q1 | How many movies are there in the dataset? | ![Q1](Q1.gif) |
 | Q2 | How many total ratings are present? | ![Q2](Q2.gif) |
@@ -41,8 +44,3 @@ A SQL case study analyzing movies & ratings from the **MovieLens dataset** with 
 - Understanding **movie ratings analysis** with a real-world dataset  
 
 ---
-
-## ⚡ How to Use  
-1. Clone this repo  
-   ```bash
-   git clone https://github.com/your-username/MovieLens-SQL-CaseStudy.git
