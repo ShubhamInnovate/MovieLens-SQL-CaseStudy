@@ -1,11 +1,11 @@
 # 🎬 MovieLens SQL Case Study  
-
+-
 This project is a SQL case study built on the MovieLens dataset.  
 It explores movies, user ratings, and IMDb links through structured queries.  
 A total of 17 SQL queries were written, ranging from basic to advanced.  
 The analysis includes popularity trends, genre insights, and rating behaviors.  
 It demonstrates SQL skills in data analysis, aggregation, joins, and set operations.  
----
+-
 
 ## 📂 Dataset Overview  
 - **P2_Movie** → Movies with title & genres(https://www.kaggle.com/datasets/merveatasoy1/movielens-dataset?select=movie.csv)
