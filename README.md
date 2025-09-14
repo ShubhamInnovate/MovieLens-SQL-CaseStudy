@@ -5,7 +5,7 @@ A SQL case study analyzing movies & ratings from the **MovieLens dataset** with 
 ---
 
 ## 📂 Dataset Overview  
-- **P2_Movie** → Movies with title & genres  
+- **P2_Movie** → Movies with title & genres(https://www.kaggle.com/datasets/merveatasoy1/movielens-dataset?select=movie.csv)
 - **P2_Rating** → User ratings (1–5)  
 - **P2_Link** → Links to IMDb & TMDB IDs  
 
